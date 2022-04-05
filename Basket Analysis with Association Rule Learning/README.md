@@ -1,6 +1,6 @@
 # Basket Analysis with Association Rule Learning
 
-![image](https://user-images.githubusercontent.com/83332641/161731001-1633a6be-7c0e-4130-adbb-20d6a91e52ed.png)
+![image](https://user-images.githubusercontent.com/83332641/161731125-1d9e14ca-dd43-458e-a1f0-86476c56777d.png)
 
 ## Table of contents
 * [Introduction](#Introduction)
