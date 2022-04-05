@@ -1,8 +1,12 @@
+# Movie Recommender Item Based Filtering Application
+
 ## Table of contents
 * [Introduction](#Introduction)
 * [Context](#Context)
-* [Business Problem](#Business Problem)
-* [Attribute Information](#Attribute Information)
+* [Business Problem](#Business_Problem)
+* [Attribute Information](#Attribute_Information)
+* 
+![image](https://user-images.githubusercontent.com/83332641/161719301-9223e24c-794b-47ea-92db-ef359cfa30b1.png)
 
 
 ## Introduction  
