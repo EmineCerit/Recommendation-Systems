@@ -46,8 +46,8 @@ movie.csv that contains movie information:
 
 ## Task Details
 
-**Step 1:** Preparing the Data Set
-**Step 2:** Determining the Movies Watched by the User to Suggest  
+**Step 1:** Preparing the Data Set  
+**Step 2:** Determining the Movies Watched by the User to Suggest   
 **Step 3:** Accessing Data and Ids of Other Users Watching Same Movies  
 **Step 4:** Identifying Users with the Most Similar Behaviors to the User to Suggest  
 **Step 5:** Calculating the Weighted Average Recommendation Score  
