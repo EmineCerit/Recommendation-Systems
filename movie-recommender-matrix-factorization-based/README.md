@@ -1,9 +1,13 @@
+# Matrix Factorization Based Movie Recommender
+
 ## Table of contents
 * [Introduction](#Introduction)
 * [Context](#Context)
 * [Business Problem](#Business_Problem)
 * [Attribute Information](#Attribute_Information)
 * [Task Details](#Task_Details)
+
+![image](https://user-images.githubusercontent.com/83332641/161723810-4cad7acf-7ad4-4cc0-8248-be69a179b577.png)
 
 
 ## Introduction
